@@ -15,5 +15,9 @@ Necesito hacer un cambio para verificar si mi git bash no se crasheo
 
 esta linea hace parte de cabecera y no de la master 
 
+Este parrafo va a ser muy corto pero la idea es que se modifique el documento
+lo mas posible para que al fusionarlos haya inconvenientes, en el curso de freddy 
+lo hace con un ejemplo de html y css pero yo lo hago aqui y ya 
+
 
 
