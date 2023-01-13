@@ -11,4 +11,6 @@ cargando versiones anteriores
 
 estamos agregando una rama o breach distinta al head
 
+Necesito hacer un cambio para verificar si mi git bash no se crasheo
+
 
