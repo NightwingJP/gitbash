@@ -1,4 +1,4 @@
-Creando proyecto
+Comenzando proyecto
 
 otra linea nueva 
 para verificar los cambios puedes usar git bash 
