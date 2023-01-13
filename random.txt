@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Comenzando proyecto
+=======
+iniciando proyecto
+>>>>>>> rama
 
 otra linea nueva 
 para verificar los cambios puedes usar git bash 
