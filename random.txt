@@ -1,10 +1,18 @@
 Creando proyecto
 
+otra linea nueva 
+para verificar los cambios puedes usar git bash 
+y navegar como aprendiste 
+
 juan ya sabe manejar git
 
 por que no unos cuantos numeritos 123654789
 
 Navegando en el proyecto
+
+este parrafo hace que todas las lineas se corran 
+para quue asi se evidencie el trabajo de dos personas en conjunto 
+fin
 
 cargando versiones anteriores 
 
