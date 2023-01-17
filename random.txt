@@ -4,7 +4,8 @@ Comenzando proyecto
 iniciando proyecto
 >>>>>>> rama
 
-otra linea nueva 
+LINEA EN GITHUB
+
 para verificar los cambios puedes usar git bash 
 y navegar como aprendiste 
 
